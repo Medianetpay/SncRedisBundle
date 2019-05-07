@@ -1,5 +1,5 @@
 {
-    "name": "snc/redis-bundle",
+    "name": "medianetpay/redis-bundle",
     "type": "symfony-bundle",
     "description": "A Redis bundle for Symfony",
     "keywords": [
@@ -7,7 +7,7 @@
         "nosql",
         "symfony"
     ],
-    "homepage": "https://github.com/snc/SncRedisBundle",
+    "homepage": "https://github.com/Medianetpay/SncRedisBundle",
     "license": "MIT",
     "authors": [
         {
