@@ -1,9 +1,9 @@
 {
-    "name": "snc/redis-bundle",
+    "name": "medianetpay/redis-bundle",
     "type": "symfony-bundle",
     "description": "A Redis bundle for Symfony",
     "keywords": ["redis", "nosql", "symfony"],
-    "homepage": "https://github.com/snc/SncRedisBundle",
+    "homepage": "https://github.com/Medianetpay/SncRedisBundle",
     "license": "MIT",
     "authors": [{
         "name": "Henrik Westphal",
@@ -13,7 +13,7 @@
         "homepage": "https://github.com/snc/SncRedisBundle/contributors"
     }],
     "require": {
-        "php": ">=5.3.3",
+        "php": "^5.3.3 || ^7.0",
         "symfony/framework-bundle": "^2.7 || ^3.0 || ^4.0",
         "symfony/yaml": "^2.7 || ^3.0 || ^4.0"
     },
